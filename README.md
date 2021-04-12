@@ -1,7 +1,7 @@
 # -黑苹果自用文件，OpenCore引导，当前最新版本——0.6.7
 ## 后期保留所有OC版本配置文件。
 ---主板：华擎Z370 Pro4---  
----CPU：i5 8600k 六核六线程 3.6GHz （BIOS超频到4.5GHz）---  
+---CPU：i9 9900KF 八核十六线程 3.6GHz （BIOS超频到4.7GHz）---  
 ---内存：威刚（ADATA）DDR4 3600 8GBx2 XPG-威龙Z1(金色)（BIOS超频到3900MHz）---  
 ---显卡：盈通（yeston）RX560D-4G D5大地之神 1200/6000MHz 4G/128bit/GDDR5显卡---  
 ---显示器：AOC U27U2D 4K---  
